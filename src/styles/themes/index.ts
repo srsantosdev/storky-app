@@ -1,6 +1,7 @@
 export const themes = {
   default: {
     colors: {
+      PRIMARY_100: '#EBFEEA',
       PRIMARY_MAIN: '#05BB75',
       BACKGROUND_COLOR: '#F5F5F5',
       TEXT_900: '#001111',
